@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./selectorationsc02greegoog_0004.png"; bbox 0 0 2760 4448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 720 209 1317 427">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 720 195 1317 427">
+     <span class='ocr_line' id='line_1_1' title="bbox 722 209 1316 304; baseline -0.005 -18"><span class='ocrx_word' id='word_1_1' title='bbox 722 229 765 292; x_wconf 50' lang='grc' dir='ltr'>μ</span> <span class='ocrx_word' id='word_1_2' title='bbox 822 239 856 294; x_wconf 82' lang='grc'>;;</span> <span class='ocrx_word' id='word_1_3' title='bbox 952 209 1201 304; x_wconf 92' lang='lat'>5</span> <span class='ocrx_word' id='word_1_4' title='bbox 1314 230 1316 283; x_wconf 76' lang='lat'>5</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 720 297 1317 427; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 720 297 1226 427; x_wconf 69' lang='lat'>32044097076913‘</span> <span class='ocrx_word' id='word_1_6' title='bbox 1316 366 1317 405; x_wconf 55' lang='grc'>0</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1384 4448">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1384 4448">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1384 4448; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1384 4448; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
